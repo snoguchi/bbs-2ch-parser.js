@@ -1,0 +1,24 @@
+{
+  "name": "bbs-2ch-parser",
+  "version": "0.0.1",
+  "main": "./bbs-2ch-parser.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "description": "2ch data parser",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/snoguchi/bbs-2ch-parser.js.git"
+  },
+  "keywords": [
+    "2ch"
+  ],
+  "author": "snoguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snoguchi/bbs-2ch-parser.js/issues"
+  }
+}
